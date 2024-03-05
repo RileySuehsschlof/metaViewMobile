@@ -54,3 +54,6 @@ form button {
 form .error {
     color: #ff0000;
 }
+img {
+    align-item: center;
+}
